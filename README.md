@@ -1,5 +1,10 @@
 # Tennis Courts – UI Code Challenge
 
+![React](https://img.shields.io/badge/React-18-blue)
+![TypeScript](https://img.shields.io/badge/TypeScript-5-blue)
+![Vite](https://img.shields.io/badge/Vite-5-purple)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-3-teal)
+
 Mobile‑first, two‑page app to browse tennis courts, search, view details, and leave a review.
 No backend — all data is mocked in the client.
 
@@ -61,3 +66,14 @@ src/
 
 ## Prompts Used
 See `PROMPTS.md` in this repo for a copy of assistant prompts used to accelerate scaffolding.
+
+## 📸 Screenshots
+
+**Courts List**  
+<img src="./docs/list.png" width="320" />
+
+**Court Detail**  
+<img src="./docs/detail.png" width="320" />
+
+**Review with Toast**  
+<img src="./docs/review.png" width="320" />
